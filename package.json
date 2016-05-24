@@ -1,7 +1,7 @@
 {
-  "name": "react-battle",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "A battle project with ReactJS",
+  "description": "A starter project for ReactJS with Webpack and Babel",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port $PORT --host $IP  --content-base build/",
